@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    color: white;
+    background: rgb(68, 68, 68);
+    font-family: 'Varela Round', sans-serif;
+
+}
+
+body {
+    font-size: 1em;
+}
+
+header {
+    border-style: none none dotted none;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+.navbar .menu > li {     
+    background: none;
+    width: auto;
+
+}
+  
+.navbar ul li {
+    display: none;
+}
+  
+.hamburger {
+    color: white;
+    text-align: right;
+}
+  
+.hamburger:hover ~ ul li {
+    display: block;
+    color: white;
+}
+
+button {
+    background-color: gray;
+}
+
+.contain-content {
+    text-align: center;
+}
