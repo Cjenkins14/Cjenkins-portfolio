@@ -6,7 +6,7 @@
 
 body {
     font-size: .75em;
-    line-height: 40px;
+    line-height: 3em;
     margin: 1em;
     font-family: 'Open Sans', sans-serif;
 }
@@ -140,12 +140,11 @@ button {
 
 @media screen and (min-width: 800px) {
     body {
-        font-size: 1.25em;
         line-height: 3em;
     }
 
     p {
-        margin: 3em 3em;
+        margin: 1em 3em;
     }
 
     input[type="button"] {
