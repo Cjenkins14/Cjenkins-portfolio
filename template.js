@@ -15,15 +15,15 @@ const STORE = {
     <a href="https://github.com/Cjenkins14/Mack-quiz-app
     ">Code</a></div>`,
     about: ` <div class="contain-content">
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A few years ago, I completed my first Raspberry Pi project, using Python. I became very interested in 
-    what I could accomplish if I knew how to write my own software. When I realized that I needed to change 
-    my career, I had to decide what type of problem I wanted to handle in my everyday life. Some of my natural 
-    skills are attention to detail, an eye for efficiency, and being an avid learner. I felt that these would 
-    shine within the development field. I enjoy coding because solving problems, and having the benefit of seeing 
-    my work come to life is exciting. When I am not losing myself in learning a new language or project, I am likely 
-    traveling, enjoying time outdoors, or writing poetry.</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A few years ago, I completed my first Raspberry Pi project using Python. 
+    I became very interested in what I could accomplish if I knew how to write my software. When I realized that 
+    I needed to change my career, I had to decide what type of problem I wanted to handle in my everyday life. 
+    Some of my natural skills are attention to detail, having an eye for efficiency, and being an avid learner. 
+    I felt that these would shine within the development field. I enjoy coding because solving problems, and 
+    having the benefit of seeing my work come to life is exciting. When I am not losing myself in learning a new 
+    language or project, I am likely traveling, enjoying time outdoors, or reading.</p>
       <div class="contact">
-        <p>If you have any questions, or are interested in how I may help you, please feel free to contact me via one of these options:</p>
+        <p>Please feel free to contact me:</p>
           <div class="contact-links">
             <a href = "mailto:coreyjenkins24@gmail.com?subject = Feedback&body = Message"><img src="Images/email.png"/></a>
             <a href="https://www.linkedin.com/in/coreyjenkins2414"><img src="Images/linkedin (1).png"/></a>
@@ -33,7 +33,7 @@ const STORE = {
     </div>
     `,
     Headline: `<div class="contain-content">
-    <p>Hello, I’m Corey Jenkins, a fullstack developer that enjoys working with front-end web design. </p>
+    <pHello, I’m Corey, a full-stack developer that enjoys working with front-end web design. </p>
     <p>
         page content, images and description
     </p>

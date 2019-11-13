@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
     color: black;
-    background: rgb(139, 139, 139);
+    background: rgb(110, 110, 110);
 }
 
 body {
@@ -22,13 +22,15 @@ header {
     width: 100%;
 }
 
-a {
-    color: rgb(201, 137, 18);
+a, input[type="button"] {
+    color: rgb(255, 166, 0);
+    font-weight: 700;
 }
 
 
 p {
     margin: 1em;
+    color: white;
 }
 
 ul > li {
@@ -52,15 +54,12 @@ a:hover, li:hover, h1:hover {
 .navbar .menu > li {     
     background: none;
     width: auto;
-    
 }
 
 input[type="button"] {
     border-style: none;
     font-family: 'Proza Libre', sans-serif;
     font-size: 16px;
-    font-weight: 700;
-    color: rgb(201, 137, 18);
 }
 
 #headline {
@@ -72,8 +71,9 @@ input[type="button"] {
   
 
 button {
-    background-color:orange;
+    background-color: rgb(255, 166, 0);
     height: 40px;
+    font-size: 18px;
     
 }
 
@@ -95,14 +95,14 @@ button {
 }
 
 .quiz-screen {
-    width: 50%;
-    height: 50%;
+    width: 60%;
+    height: 60%;
     
 }
 
 
 .lang-icon {
-    height: 30px;
+    height: 40px;
 }
 
 .hidden {
@@ -117,6 +117,10 @@ button {
         justify-content: space-between;
     }
 
+    body {
+        font-size: 1em;
+    }
+
     
     .navbar {
         height: 50px;
@@ -128,15 +132,23 @@ button {
         color: white;
       }
       
-      .hamburger {
-        display: none;
-      }
+      .quiz-screen {
+        width: 50%;
+        height: 50%;
+    }
 }
 
 @media screen and (min-width: 800px) {
     body {
-        font-size: 1em;
+        font-size: 1.25em;
+        line-height: 3em;
     }
 
-    
+    p {
+        margin: 3em 3em;
+    }
+
+    input[type="button"] {
+        font-size: 18px;
+    }
 }
