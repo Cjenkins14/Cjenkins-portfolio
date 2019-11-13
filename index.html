@@ -6,30 +6,34 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>CJenkins-portfolio</title>
     <link rel="stylesheet" href="main.css">
-    <link href="https://fonts.googleapis.com/css?family=Varela+Round&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans|Proza+Libre&display=swap" rel="stylesheet">
 </head>
 <body>
     <header>
-        <h1>Corey Jenkins</h1>
-        <div class="contain-nav">
-            <nav class="navbar">
-                <div class="hamburger">&#9776;</div>
-                <ul class="menu">
-                    <li>Projects</li>
-                    <li>About</li>
-                </ul>
-            </nav>
+        <div class="js-head-start">
+            <h1>Corey Jenkins</h1>
         </div>
+            <div class="navbar">
+                <ul class="menu">
+                    <li class="js-project">Projects</li>
+                    <li class="about">About</li>
+                </ul>
+            </div>
     </header>
     <main role="main">
-        <div class="contain-content">
-            <p>Headline</p>
-            <p>
-                page content, images and description
-            </p>
-            <button type="button">See Projects</button>
+        <div class="js-headline-page">
+            <p>Hello, I’m Corey Jenkins, a fullstack developer that enjoys working with front-end web design. </p>
+            <button type="button" class="js-see-project">See Projects</button>
         </div>
+        <div class="js-content"></div>
     </main>
     
 </body>
+<footer>
+        <script src="https://code.jquery.com/jquery-3.4.1.js"
+        integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+        crossorigin="anonymous"></script>
+        <script src="template.js"></script>
+        <script src="index.js"></script>
+</footer>
 </html>
