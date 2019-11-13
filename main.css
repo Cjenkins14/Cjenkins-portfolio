@@ -1,9 +1,7 @@
 * {
     box-sizing: border-box;
-    color: white;
-    background: rgb(68, 68, 68);
-    
-    
+    color: black;
+    background: rgb(139, 139, 139);
 }
 
 body {
@@ -14,7 +12,6 @@ body {
 }
 
 header {
-    font-family: 'Proza Libre', sans-serif;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -23,12 +20,12 @@ header {
     padding: 10px;
     margin-bottom: 30px;
     width: 100%;
-    
 }
 
-h1 {
-    
+a {
+    color: rgb(201, 137, 18);
 }
+
 
 p {
     margin: 1em;
@@ -36,13 +33,6 @@ p {
 
 ul > li {
     list-style-type: none;
-}
-  
-
-
-a {
-    color: orange;
-    
 }
 
 h1, .navbar {
@@ -62,7 +52,20 @@ a:hover, li:hover, h1:hover {
 .navbar .menu > li {     
     background: none;
     width: auto;
-    color: orange;
+    
+}
+
+input[type="button"] {
+    border-style: none;
+    font-family: 'Proza Libre', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    color: rgb(201, 137, 18);
+}
+
+#headline {
+    font-size: 1em;
+    color: black;
 }
   
 
@@ -79,6 +82,12 @@ button {
     flex-direction: column;
     align-items: center;
     text-align: left;
+}
+
+.contact {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
 }
 
 .js-headline-page {
