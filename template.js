@@ -16,12 +16,10 @@ const STORE = {
     ">Code</a></div>`,
     about: ` <div class="contain-content">
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A few years ago, I completed my first Raspberry Pi project using Python. 
-    I became very interested in what I could accomplish if I knew how to write my software. When I realized that 
-    I needed to change my career, I had to decide what type of problem I wanted to handle in my everyday life. 
-    Some of my natural skills are attention to detail, having an eye for efficiency, and being an avid learner. 
-    I felt that these would shine within the development field. I enjoy coding because solving problems, and 
-    having the benefit of seeing my work come to life is exciting. When I am not losing myself in learning a new 
-    language or project, I am likely traveling, enjoying time outdoors, or reading.</p>
+    I became very interested in what I could accomplish if I knew how to write software. Some of my natural skills 
+    are attention to detail, having an eye for efficiency, and being an avid learner. I felt that these would shine 
+    within the development field. I enjoy coding because solving problems and seeing my solutions come to life is exciting. 
+    When I am not losing myself in learning a new language or project I am likely traveling, enjoying time outdoors, or reading.</p>
       <div class="contact">
         <p>Please feel free to contact me:</p>
           <div class="contact-links">
@@ -33,7 +31,7 @@ const STORE = {
     </div>
     `,
     Headline: `<div class="contain-content">
-    <pHello, I’m Corey, a full-stack developer that enjoys working with front-end web design. </p>
+    <pHello, I’m Corey, a full-stack developer that enjoys working with front-end web design and interactive programming. </p>
     <p>
         page content, images and description
     </p>
