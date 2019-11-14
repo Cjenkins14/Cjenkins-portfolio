@@ -1,8 +1,8 @@
 const STORE = {
     projects: `<div class="contain-content">
     <img src="Images/quiz-app-screen.png" class="quiz-screen" alt="Mackinac quiz app screenshot"/>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My first project using Javascript and jQuery, this quiz app allows you to test your knowledge <br>
-    about an obscure island in the Great Lakes. This was inspired by a summer I spent working there. <br></p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My first project using Javascript and jQuery, this quiz app allows you to test your knowledge
+    about an obscure island in the Great Lakes. This was inspired by a summer I spent working there.</p>
         <div class="languages">
             <p>Utilizing:</p>
             <img src="Images/html5.png" class="lang-icon" alt="HTML5 icon"></a>

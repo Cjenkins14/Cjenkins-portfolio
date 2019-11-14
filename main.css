@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
-    color: black;
-    background: rgb(110, 110, 110);
+    color: white;
+    background: grey;
 }
 
 body {
@@ -23,7 +23,7 @@ header {
 }
 
 a, input[type="button"] {
-    color: rgb(255, 166, 0);
+    color: red;
     font-weight: 700;
 }
 
@@ -64,14 +64,21 @@ input[type="button"] {
 
 #headline {
     font-size: 1em;
-    color: black;
+    color: white;
 }
 
 button {
-    background-color: rgb(255, 166, 0);
+    background-color: red;
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+    border: grey;
     height: 40px;
     font-size: 18px;
-    
+    border-radius: 8px;
+}
+
+button:hover {
+    background-color: white;
 }
 
 .contain-content {
@@ -142,7 +149,7 @@ button {
 
 @media screen and (min-width: 800px) {
     body {
-        line-height: 3em;
+        line-height: 2em;
     }
 
     p {
