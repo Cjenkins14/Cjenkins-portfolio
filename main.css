@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
     color: white;
-    background: rgb(20, 20, 20);
+    background: #143045;
 }
 
 body {
@@ -23,14 +23,22 @@ header {
 }
 
 a, input[type="button"] {
-    color: red;
+    color: #99A6B0;
     font-weight: 700;
 }
 
-
-p {
-    margin: 1em;
+span {
     color: white;
+    font-weight: 800;
+}
+
+h1 {
+    color: #99A6B0;
+}
+
+
+.contain-content > p {
+    width: 50%;
 }
 
 ul > li {
@@ -68,7 +76,8 @@ input[type="button"] {
 }
 
 button {
-    background-color: red;
+    background-color: #99A6B0;
+    border: none;
     font-family: 'Open Sans', sans-serif;
     color: white;
     padding: 10px;
@@ -119,6 +128,10 @@ button {
     display: none;
 }
 
+.headline-background {
+    width: 50%;
+}
+
 
 @media screen and (min-width: 500px) {
     header {
@@ -154,7 +167,7 @@ button {
     }
 
     p {
-        margin: 1em 3em;
+        
     }
 
     input[type="button"] {

@@ -2,8 +2,8 @@ const STORE = {
     projects: `<div class="contain-content">
     <h2>Mackinac Island quiz app</h2>
     <img src="Images/mack-quiz-screenshot.png" class="quiz-screen" alt="Mackinac quiz app screenshot"/>
-    <h3>Utilizing:</h3>
-          <div class="languages">
+        <div class="languages">
+          <h3>Utilizing:</h3>
               <img src="Images/html5.png" class="lang-icon" alt="HTML5 icon"></a>
               <img src="Images/css3.png" class="lang-icon" alt="CSS3 icon"></a>
               <img src="Images/javascript-icon.png" class="lang-icon" alt="Javascript icon"></a>
@@ -25,12 +25,12 @@ const STORE = {
     When I am not losing myself in learning a new language or project I am likely traveling, enjoying time outdoors, or reading.</p>
     </div>
     `,
-    contact: `<div class="contact">
-    <p>Please feel free to contact me:</p>
+    contact: `<div class="contain-content">
+    <p>I am currently searching for a position where I can bring my strengths of <span>efficiency</span>, <span>attention to detail</span> and love to <span>learn</span> if you have any questions or would like to speak to me regarding my work, please feel free to contact me:</p>
       <div class="contact-links">
-        <a href = "mailto:coreyjenkins24@gmail.com?subject = Feedback&body = Message"><img src="Images/email.png"/></a>
-        <a href="https://www.linkedin.com/in/coreyjenkins2414"><img src="Images/linkedin (1).png"/></a>
-        <a href="https://github.com/Cjenkins14"><img src="Images/github-icon.png"/></a>
+        <a href = "mailto:coreyjenkins24@gmail.com?subject = Feedback&body = Message" target="_blank"><img src="Images/email.png"/></a>
+        <a href="https://www.linkedin.com/in/coreyjenkins2414" target="_blank"><img src="Images/linkedin (1).png"/></a>
+        <a href="https://github.com/Cjenkins14" target="_blank"><img src="Images/github-icon.png"/></a>
       </div>
   </div>`,
     Headline: `<div class="contain-content">
