@@ -5,7 +5,7 @@
 }
 
 body {
-    font-size: 1em;
+    font-size: 1.25em;
     line-height: 2em;
     margin: 1em;
     font-family: 'Open Sans', sans-serif;
@@ -34,11 +34,6 @@ span {
 
 h1 {
     color: #99A6B0;
-}
-
-
-.contain-content > p {
-    width: 50%;
 }
 
 ul > li {
@@ -79,7 +74,7 @@ button {
     background-color: #99A6B0;
     border: none;
     font-family: 'Open Sans', sans-serif;
-    color: white;
+    color: black;
     padding: 10px;
     font-size: 18px;
     border-radius: 8px;
@@ -108,18 +103,19 @@ button {
 }
 
 .languages {
-    width: auto;
+    width: 50%;
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
 }
 
 .links{
-    justify-content: flex-end;
+    display: flex;
+    flex-direction: column;
 }
 
 .lang-icon {
     height: auto;
-    width: 60px;
     padding: 10px;
     justify-content: flex-start;
 }
@@ -158,6 +154,10 @@ button {
       .quiz-screen {
         width: 50%;
         height: 50%;
+    }
+
+    .contain-content > p {
+        width: 50%;
     }
 }
 

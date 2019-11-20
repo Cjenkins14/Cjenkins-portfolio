@@ -3,13 +3,12 @@ const STORE = {
     <h2>Mackinac Island quiz app</h2>
     <img src="Images/mack-quiz-screenshot.png" class="quiz-screen" alt="Mackinac quiz app screenshot"/>
         <div class="languages">
-          <h3>Utilizing:</h3>
               <img src="Images/html5.png" class="lang-icon" alt="HTML5 icon"></a>
               <img src="Images/css3.png" class="lang-icon" alt="CSS3 icon"></a>
               <img src="Images/javascript-icon.png" class="lang-icon" alt="Javascript icon"></a>
               <img src="Images/jQuery.png" class="lang-icon" alt="jQuery icon"></a>
           <div class="links">
-            <a href="https://cjenkins14.github.io/Mack-quiz-app/" target="_blank">Live Site</a>
+            <a href="https://cjenkins14.github.io/Mack-quiz-app/" target="_blank">Demo</a>
             <a href="https://github.com/Cjenkins14/Mack-quiz-app" target="_blank">Code</a>
           </div>
         </div>
