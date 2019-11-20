@@ -1,12 +1,12 @@
 * {
     box-sizing: border-box;
     color: white;
-    background: grey;
+    background: rgb(20, 20, 20);
 }
 
 body {
-    font-size: .75em;
-    line-height: 3em;
+    font-size: 1em;
+    line-height: 2em;
     margin: 1em;
     font-family: 'Open Sans', sans-serif;
 }
@@ -70,22 +70,18 @@ input[type="button"] {
 button {
     background-color: red;
     font-family: 'Open Sans', sans-serif;
-    color: black;
-    border: grey;
-    height: 40px;
+    color: white;
+    padding: 10px;
     font-size: 18px;
     border-radius: 8px;
 }
 
-button:hover {
-    background-color: white;
-}
 
 .contain-content {
     display: flex;
     flex-direction: column;
     align-items: center;
-    text-align: left;
+    
 }
 
 .contact {
@@ -99,19 +95,24 @@ button:hover {
 }
 
 .quiz-screen {
-    width: 60%;
-    height: 60%;
-    
+    width: 100%;
 }
 
 .languages {
-    align-self: center;
-    text-align: center;
+    width: auto;
+    display: flex;
+    flex-direction: row;
 }
 
+.links{
+    justify-content: flex-end;
+}
 
 .lang-icon {
-    height: 40px;
+    height: auto;
+    width: 60px;
+    padding: 10px;
+    justify-content: flex-start;
 }
 
 .hidden {
