@@ -103,7 +103,7 @@ button {
 }
 
 .languages {
-    width: 50%;
+    width: auto;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
