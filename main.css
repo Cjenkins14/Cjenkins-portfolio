@@ -120,6 +120,11 @@ button {
     justify-content: flex-start;
 }
 
+.menu {
+    display: flex;
+    flex-direction: column;
+}
+
 .hidden {
     display: none;
 }
@@ -151,9 +156,14 @@ button {
         color: white;
       }
       
-      .quiz-screen {
+    .quiz-screen {
         width: 50%;
         height: 50%;
+    }
+
+    .menu {
+        display: flex;
+        flex-direction: row;
     }
 
     .contain-content > p {
