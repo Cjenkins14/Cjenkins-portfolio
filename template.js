@@ -12,11 +12,11 @@ const STORE = {
             <a href="https://github.com/Cjenkins14/Mack-quiz-app" target="_blank">Code</a>
           </div>
         </div>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My first project using Javascript and jQuery, this quiz app allows you to test your knowledge
+    <p>My first project using Javascript and jQuery, this quiz app allows you to test your knowledge
     about an obscure island in the Great Lakes. This was inspired by a summer I spent working there, after I learned that most people
     outside the state don't know it exists.</p></div>`,
     about: ` <div class="contain-content">
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A few years ago, I completed my first Raspberry Pi project using Python. 
+    <p>A few years ago, I completed my first Raspberry Pi project using Python. 
     I became very interested in what I could accomplish if I knew how to write software. Some of my natural skills 
     are attention to detail, having an eye for efficiency, and being an avid learner. I felt that these would shine 
     within the development field. I enjoy coding because solving problems and seeing my solutions come to life is exciting. I am
