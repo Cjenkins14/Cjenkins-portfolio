@@ -15,6 +15,7 @@ const STORE = {
     <p>My first project using Javascript and jQuery, this quiz app allows you to test your knowledge
     about an obscure island in the Great Lakes. This was inspired by a summer I spent working there, after I learned that most people
     outside the state don't know it exists.</p> <br />
+
     <h2>PackIt traveling app</h2>
     <img src="Images/packit-result-screen.png" class="quiz-screen" alt="PackIt app screenshot"/>
         <div class="languages">
@@ -30,7 +31,30 @@ const STORE = {
     <p>PackIt was designed to help travelers by creating a checklist for their packing needs. 
     The app uses the weatherBit API to find the weather conditions around the globe, and renders a packing list based upon those weather conditions. 
     All that is needed is the postal code of the area you are traveling to and the dates that you will be there, the app does the rest. 
-</p>
+    </p> <br/>
+
+    <h2>Recruitr App</h2>
+    <img src="Images/recruitr-screenshot.png" class="quiz-screen" alt="Recruitr app screenshot"/>
+        <div class="languages">
+              <img src="Images/html5.png" class="lang-icon" alt="HTML5 icon"></a>
+              <img src="Images/css3.png" class="lang-icon" alt="CSS3 icon"></a>
+              <img src="Images/javascript-icon.png" class="lang-icon" alt="Javascript icon"></a>
+              <img src="Images/jQuery.png" class="lang-icon" alt="jQuery icon"></a>
+              <img src="Images/React.png" class="lang-icon" alt="React icon"></a>
+              <img src="Images/Node.jpg" class="lang-icon" alt="Node.js icon"></a>
+              <img src="Images/psql.png" class="lang-icon" alt="PostgreSQL icon"></a>
+              <img src="Images/Express.png" class="lang-icon" alt="Express icon"></a>
+          <div class="links">
+            <a href="https://recruitr-app.now.sh/" target="_blank">Demo</a>
+            <a href="https://github.com/Cjenkins14/Recruitr-app" target="_blank">Client Code</a>
+            <a href="https://github.com/Cjenkins14/recruitr-app-api" target="_blank">Server Code<a/>
+          </div>
+        </div>
+    <p>PackIt was designed to help travelers by creating a checklist for their packing needs. 
+    The app uses the weatherBit API to find the weather conditions around the globe, and renders a packing list based upon those weather conditions. 
+    All that is needed is the postal code of the area you are traveling to and the dates that you will be there, the app does the rest. 
+    </p>
+
     </div>`,
 
   about: ` <div class="contain-content">
