@@ -50,10 +50,9 @@ const STORE = {
             <a href="https://github.com/Cjenkins14/recruitr-app-api" target="_blank">Server Code<a/>
           </div>
         </div>
-    <p>PackIt was designed to help travelers by creating a checklist for their packing needs. 
-    The app uses the weatherBit API to find the weather conditions around the globe, and renders a packing list based upon those weather conditions. 
-    All that is needed is the postal code of the area you are traveling to and the dates that you will be there, the app does the rest. 
-    </p>
+    <p>Recruitr was designed for college baseball recruiters, to minimize the work they do off the field. 
+    Users are able to create profiles for their recruits, storing contact information, stats and embed a video for each player. 
+    This solves the problem of using various apps and communication types to discuss and keep track of prospective recruits. </p>
 
     </div>`,
 
