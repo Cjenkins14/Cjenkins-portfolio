@@ -34,14 +34,14 @@ const STORE = {
     </p> <br/>
 
     <h2>Recruitr App</h2>
-    <img src="Images/recruitr-screenshot.png" class="quiz-screen" alt="Recruitr app screenshot"/>
+    <img src="Images/recruiter-screenshot.png" class="quiz-screen" alt="Recruitr app screenshot"/>
         <div class="languages">
               <img src="Images/html5.png" class="lang-icon" alt="HTML5 icon"></a>
               <img src="Images/css3.png" class="lang-icon" alt="CSS3 icon"></a>
               <img src="Images/javascript-icon.png" class="lang-icon" alt="Javascript icon"></a>
               <img src="Images/jQuery.png" class="lang-icon" alt="jQuery icon"></a>
               <img src="Images/React.png" class="lang-icon" alt="React icon"></a>
-              <img src="Images/Node.jpg" class="lang-icon" alt="Node.js icon"></a>
+              <img src="Images/Node.ppg" class="lang-icon" alt="Node.js icon"></a>
               <img src="Images/psql.png" class="lang-icon" alt="PostgreSQL icon"></a>
               <img src="Images/Express.png" class="lang-icon" alt="Express icon"></a>
           <div class="links">
