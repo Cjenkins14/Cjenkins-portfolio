@@ -42,8 +42,8 @@ const STORE = {
               <img src="Images/Express.png" class="lang-icon" alt="Express icon"></a>
           <div class="links">
             <a href="https://recruitr-app.now.sh/" target="_blank">Demo</a>
-            <a href="https://github.com/Cjenkins14/Recruitr-app" target="_blank">Client Code</a>
-            <a href="https://github.com/Cjenkins14/recruitr-app-api" target="_blank">Server Code<a/>
+            <a href="https://github.com/Cjenkins14/Recruitr-app" target="_blank">Client</a>
+            <a href="https://github.com/Cjenkins14/recruitr-app-api" target="_blank">Server<a/>
           </div>
         </div>
     <p>Recruitr was designed for college baseball recruiters, to minimize the work they do off the field. 
@@ -59,8 +59,8 @@ const STORE = {
               <img src="Images/Express.png" class="lang-icon" alt="Express icon"></a>
           <div class="links">
             <a href="https://reflect-app.now.sh/" target="_blank">Demo</a>
-            <a href="https://github.com/Cjenkins14/Reflect-app" target="_blank">Client Code</a>
-            <a href="https://github.com/Cjenkins14/reflect-app-api" target="_blank">Server Code<a/>
+            <a href="https://github.com/Cjenkins14/Reflect-app" target="_blank">Client</a>
+            <a href="https://github.com/Cjenkins14/reflect-app-api" target="_blank">Server<a/>
           </div>
         </div>
     <p>Reflect was designed to make journaling more accessible and mobile, by being accessible from the devices we are most comfortable with.
