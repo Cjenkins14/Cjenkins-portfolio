@@ -50,6 +50,22 @@ const STORE = {
     Users are able to create profiles for their recruits, storing contact information, stats and embed a video for each player. 
     This solves the problem of using various apps and communication types to discuss and keep track of prospective recruits. </p>
 
+    <h2>Reflect App</h2>
+    <img src="Images/reflect-app-screenshot.png" class="quiz-screen" alt="Reflect app screenshot"/>
+        <div class="languages">
+              <img src="Images/React.png" class="lang-icon" alt="React icon"></a>
+              <img src="Images/Node.png" class="lang-icon" alt="Node.js icon"></a>
+              <img src="Images/psql.png" class="lang-icon" alt="PostgreSQL icon"></a>
+              <img src="Images/Express.png" class="lang-icon" alt="Express icon"></a>
+          <div class="links">
+            <a href="https://reflect-app.now.sh/" target="_blank">Demo</a>
+            <a href="https://github.com/Cjenkins14/Reflect-app" target="_blank">Client Code</a>
+            <a href="https://github.com/Cjenkins14/reflect-app-api" target="_blank">Server Code<a/>
+          </div>
+        </div>
+    <p>Reflect was designed to make journaling more accessible and mobile, by being accessible from the devices we are most comfortable with.
+      Users are able to create daily entries, and view those entries organized by the month they were created. There is also a 
+      page dedicated to a daily task tracker, to allow users to stay up to date on the things they wanted to accomplish that day. </p>
     </div>`,
 
   about: ` <div class="contain-content">
@@ -70,7 +86,7 @@ const STORE = {
       </div>
   </div>`,
   Headline: `<div class="contain-content">
-    <pHello, I’m Corey, a full-stack developer that enjoys working with front-end web design and interactive programming. </p>
+    <pHello, I’m Corey, a full-stack developer that enjoys working with back-end programming and databases</p>
     <p>
         page content, images and description
     </p>
