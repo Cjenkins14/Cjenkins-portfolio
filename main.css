@@ -88,12 +88,6 @@ button {
     
 }
 
-.contact {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-}
-
 .js-headline-page {
     text-align: center;
 }
@@ -132,7 +126,12 @@ button {
 .headline-background {
     width: 50%;
 }
-
+@media screen and (max-width: 400px) {
+    .lang-icon {
+        width: 3em;
+        height: 3em;
+    }
+}
 @media screen and (max-width: 500px) {
     .lang-icon {
         width: 4em;
@@ -163,7 +162,7 @@ button {
       }
       
     .quiz-screen {
-        width: 50%;
+        width: 75%;
         height: 50%;
     }
 
