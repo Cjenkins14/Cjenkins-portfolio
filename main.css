@@ -133,7 +133,7 @@ button {
     }
 }
 
-@media screen and (min-width: 500px) {
+@media screen and (min-width: 401px) {
     .lang-icon {
         width: 4em;
         height: 4em;
