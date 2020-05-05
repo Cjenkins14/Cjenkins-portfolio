@@ -132,15 +132,13 @@ button {
         height: 3em;
     }
 }
-@media screen and (max-width: 500px) {
-    
-}
+
 @media screen and (min-width: 500px) {
     .lang-icon {
         width: 4em;
         height: 4em;
     }
-    
+
     header {
         display: flex;
         flex-direction: row;
