@@ -124,6 +124,7 @@ button {
 }
 @media screen and (max-width: 400px) {
     .lang-icon {
+        padding: 5px;
         width: 3em;
         height: 3em;
     }
@@ -131,6 +132,7 @@ button {
 
 @media screen and (min-width: 401px) {
     .lang-icon {
+        padding: 5px;
         width: 4em;
         height: 4em;
     }
